@@ -17,7 +17,7 @@ touch bioinformatics_project/data/random_sequence.fasta
 touch bioinformatics_project/README.md
 
 #brief description in readme file: 
-echo "Bioinformatics Project contains the follow directories:" > bioinformatics_project/README.md
+echo "Bioinformatics Project file contains the following:" > bioinformatics_project/README.md
 echo "Files include 'data', 'scripts', and 'results'.
 - The 'data' file contains input data. 
 - The 'scripts' file contains python files for bioinformatics operations. 
