@@ -18,7 +18,10 @@ touch bioinformatics_project/README.md
 
 #brief description in readme file: 
 echo "Bioinformatics Project contains the follow directories:" > bioinformatics_project/README.md
-echo "Files include "data," "scripts," and "results." >> bioinformatics_project/README.md
-echo "The data file contains input data. The scripts file contains python files for bioinformatics operations. The results file contains the results and summary." >> bioinformatics_project/README.md
+echo "Files include 'data', 'scripts', and 'results'.
+- The 'data' file contains input data. 
+- The 'scripts' file contains python files for bioinformatics operations. 
+- The 'results' file contains the results and summary.
+" >> bioinformatics_project/README.md
 
  
